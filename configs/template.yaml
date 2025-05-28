@@ -1,0 +1,6 @@
+env: "local"
+tg_token: "bot_token"
+tg_admin: 12345
+db_driver: "sqlite"
+storage_path: "./storages/mainDb.db"
+openai_token: "openai_token"

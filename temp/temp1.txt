@@ -1,0 +1,15 @@
+2. **Технологические инновации*:
+2. *Технологические инновации*:
+~~А также...~~
+
+`mono some line`
+
+```
+some code
+multyline
+```
+
+```golang
+some go code
+multyline
+```
